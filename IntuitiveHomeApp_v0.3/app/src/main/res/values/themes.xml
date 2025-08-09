@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.IntuitiveHome" parent="Theme.Material3.Light.NoActionBar"/>
+    <string name="app_name">Intuitive Home</string>
+</resources>
